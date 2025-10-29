@@ -1,5 +1,6 @@
 # EXNO:4-DS
-
+### NAME: MURALITHARAM K M
+### REG.NO:212223040121
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
